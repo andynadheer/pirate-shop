@@ -1,0 +1,26 @@
+{
+  "sv": {
+    "products": {},
+    "navbar": {
+      "navItems": [
+        {
+          "label": "Startsida",
+          "icon": "Test"
+        },
+        {
+          "label": "Produkter",
+          "icon": "Test"
+        },
+        {
+          "label": "Varukorg",
+          "icon": "Test"
+        },
+        {
+          "label": "Checkout",
+          "icon": "Test"
+        }
+      ]
+    }
+  },
+  "en": {}
+}
